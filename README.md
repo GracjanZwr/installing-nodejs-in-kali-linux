@@ -13,7 +13,7 @@ depending which shell you are using: bash, zsh, fish etc. use diffrent pipe opti
 
 <strong> command -v nvm </strong>
 
-3) install node.js using nvm ( here we using version node.js version 6 but you can use any version you wish ):
+3) install node.js using nvm ( here we using node.js version 6 but you can use any version you wish ):
 
 <strong> nvm install 6 </strong>
 
