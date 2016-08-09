@@ -3,9 +3,9 @@ Getting node.js to work in Kali Linux
 
 1) install node version manager : <br>
 
-wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | bash <br>
-  or <br>
-wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | zsh <br>
+<strong> wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | bash </strong> <br>
+        or <br>
+<strong> wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | zsh <strong/> <br> 
 
 depending which shell you are using: bash, zsh, fish etc. use diffrent pipe option  <br>
 
